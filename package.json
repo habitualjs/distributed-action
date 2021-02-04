@@ -4,7 +4,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/habitualjs/typing"
+    "url": "https://github.com/habitualjs/distributed-action"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
